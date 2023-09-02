@@ -2,7 +2,7 @@
 
 ![Project Hero Image](https://res.cloudinary.com/dktfpedhu/image/upload/v1693660554/portfolio_as99vs.jpg)
 
-[View Demo](https://omnifood-site.vercel.app)
+[View Demo](https://portfolio-site-rupam.vercel.app)
 
 ## Introduction
 
