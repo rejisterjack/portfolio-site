@@ -1,20 +1,28 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+# Portfolio
+
+![Project Hero Image](https://res.cloudinary.com/dktfpedhu/image/upload/v1693660554/portfolio_as99vs.jpg)
+
+[View Demo](https://omnifood-site.vercel.app)
 
 ## Introduction
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
- 
-In this course, you'll learn the following:
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
-You'll also learn how to:
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Implement sending emails through a form on the website
-- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Explore a captivating digital world with my portfolio site crafted using Three.js. Immerse yourself in stunning 3D graphics and interactive animations that showcase my creative work. From dynamic visualizations to interactive experiences, my portfolio brings my projects to life in a whole new dimension. Dive in and discover the fusion of technology and artistry.
+
+## Technologies Used
+
+<div style="background-color: #f06529; color: #fff; padding: 10px; margin: 5px; display: inline-block;">ThreeJS</div>
+<div style="background-color: #264de4; color: #fff; padding: 10px; margin: 5px; display: inline-block;">ReactJS</div>
+<div style="background-color: #F0DB4F; color: #fff; padding: 10px; margin: 5px; display: inline-block;">Styled Components</div>
+
+
+## Installation
+
+Here are the installation steps
+
+```shell
+# installation commands
+git clone https://github.com/rejisterjack/portfolio-site.git
+cd portfolio-site
+npm i --legacy-peer-deps
+npm run dev
+
